@@ -1,1 +1,1 @@
-# cd-path-to-recurring-date-picker
+recurring-date-picker
